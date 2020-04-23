@@ -1,0 +1,16 @@
+Package: embarcadero
+Title: Species distribution models with BART
+Version: 0.0.0.0001
+Authors@R: person("Colin", "Carlson", email = "colin.carlson@georgetown.edu", role = c("aut", "cre"))
+Description: Some more convenience tools for BART models. 
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Depends: tidyverse, BART
+RoxygenNote: 7.1.0
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2020-03-02 16:39:49 UTC; cjcar
+Author: Colin Carlson [aut, cre]
+Maintainer: Colin Carlson <colin.carlson@georgetown.edu>
